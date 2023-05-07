@@ -1,0 +1,10 @@
+.cabecalho__box {
+    
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    gap: 32px;
+    height: 50px;
+    padding: 0px;
+    width: 601px;
+}

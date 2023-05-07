@@ -1,0 +1,18 @@
+body {
+    
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    font-family: 'Raleway', sans-serif;
+    font-style: normal;
+    gap: 64px;
+    height: 2111px;
+    left: 0%;
+    margin: 0px;
+    padding: 0px;
+    position: absolute;
+    right: 0%;
+    top: 0px;
+    width: 1440PX;
+    
+}

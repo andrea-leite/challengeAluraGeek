@@ -1,0 +1,27 @@
+.rodape {
+
+    align-items: center;
+    background: #FFFFFF;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    height: 102px;
+    justify-content: center;
+    padding: 32px;
+    width: 1440px;
+
+}
+
+.rodape__texto {
+
+    color: #464646;
+    font-family: 'Raleway', sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    height: 38px;
+    line-height: 19px;
+    text-align: center;
+    width: 234px;
+
+}

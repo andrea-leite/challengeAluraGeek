@@ -1,0 +1,12 @@
+.cabecalho__container {
+
+    align-items: center;
+    background: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 10px;
+    height: 115px;
+    padding: 0px;
+    width: 1440px;
+}

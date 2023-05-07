@@ -1,0 +1,12 @@
+.banner__box {
+
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    height: 170px;
+    justify-content: flex-end;
+    padding-bottom: 32px;    
+    width: 1136px;
+
+}

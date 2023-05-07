@@ -1,0 +1,5 @@
+.cabecalho__botao {
+
+display: flex;
+justify-content: flex-end;
+}

@@ -1,0 +1,32 @@
+.pesquisa {
+
+    align-items: center;
+    background: #F5F5F5;
+    border-radius: 20px;
+    border: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    gap: 8px;
+    height: 40px;
+    padding: 8px 16px;
+    width: 393px;
+
+}
+.pesquisa__texto {
+    
+    align-items: flex-start;
+    background: #F5F5F5;
+    border: none;
+    display: flex;
+    color: #A2A2A2;
+    flex-direction: row;
+    font-size: 14px;
+    font-weight: 400;
+    height: 16px;
+    line-height: 16px;
+    margin: 0px;
+    padding: 0px;
+    width: 329px;
+    
+}

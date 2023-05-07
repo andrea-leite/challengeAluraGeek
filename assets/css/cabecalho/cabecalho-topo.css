@@ -1,0 +1,12 @@
+.cabecalho__topo {
+
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;  
+    height: 115px;    
+    padding: 32px 0px;
+    width: 1136px;
+    
+}
+
