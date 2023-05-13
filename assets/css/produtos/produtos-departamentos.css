@@ -1,0 +1,11 @@
+.produtos__departamentos {
+        
+    display: flex;
+    flex-direction: column;
+   
+    gap: 16px;
+    height: 306px;
+    
+    width: 1136px;
+
+}

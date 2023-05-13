@@ -1,0 +1,13 @@
+.produtos__cabecalho {
+    
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+    height: 38px;
+    padding: 0px;   
+    margin: 0px; 
+    width: 1133px;
+
+}

@@ -1,0 +1,12 @@
+.produtos__imagem {
+    
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    justify-content: flex-end;
+    height: 174px;
+    padding: 0px;
+    width: 176px;
+    
+}

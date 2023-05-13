@@ -1,4 +1,4 @@
-.banner__botao {
+.contato__botao {
     
     align-items: center;
     background: #2A7AE4;
@@ -6,15 +6,17 @@
     color: #FFFFFF;
     display: flex;
     flex-direction: row;
-<<<<<<< HEAD
-=======
-    font-size: 16px;
-    font-weight: 400;
->>>>>>> f27331a (Atualização)
     gap: 10px;
     height: 51px;
     justify-content: center;
-    padding: 16px;
-    width: 130px;
+    padding: 0px;
+    width: 165px;
 }
-
+.contato__botao__texto {
+    border: none;
+    background: #2A7AE4;
+    color: #FFFFFF; 
+    font-size: 16px;
+    font-weight: 400;
+    
+}

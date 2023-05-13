@@ -1,0 +1,13 @@
+.contato__box {
+    
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    height: 154px;
+    padding: 0px;
+    width: 560px;
+
+}
+
+

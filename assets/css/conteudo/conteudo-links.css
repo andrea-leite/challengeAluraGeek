@@ -1,0 +1,11 @@
+.conteudo__links {
+    
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    height: 234px;
+    padding: 0px;
+    width: 176px;
+
+}

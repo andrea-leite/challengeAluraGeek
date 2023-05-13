@@ -9,7 +9,11 @@
     justify-content: flex-start;
     gap: 8px;
     height: 40px;
+<<<<<<< HEAD
     padding: 8px 16px;
+=======
+    padding: 0px;
+>>>>>>> f27331a (Atualização)
     width: 393px;
 
 }
@@ -25,7 +29,11 @@
     font-weight: 400;
     height: 16px;
     line-height: 16px;
+<<<<<<< HEAD
     margin: 0px;
+=======
+    margin-left: 13px;
+>>>>>>> f27331a (Atualização)
     padding: 0px;
     width: 329px;
     

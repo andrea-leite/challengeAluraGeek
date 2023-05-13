@@ -1,0 +1,29 @@
+.login__botao {
+    
+    align-items: center;
+    background: #2A7AE4;
+    border: none;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    height: 62px;
+    justify-content: center;
+    left: 508px;        
+    position: absolute;
+    top: 435px;
+    width: 423px;
+
+}
+
+ .login__botao__texto {
+    
+    color: #FFFFFF;
+    background: #2A7AE4;
+    border: none;
+    font-weight: 600;
+    font-size: 18px;
+    height: 21px;
+    line-height: 21px;
+    width: 52px;
+
+}

@@ -1,0 +1,11 @@
+.conteudo {
+    
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    height: 470px;
+    padding: 0px;
+    width: 1267px;
+
+
+}

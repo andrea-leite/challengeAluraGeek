@@ -1,0 +1,12 @@
+.produtos {
+
+    display: flex;
+    flex-direction: column;    
+    align-items: center;
+    padding: 0px;
+    margin: 0px;
+    justify-content: space-evenly;
+    height: 1174px;
+    width: 1440px;
+   
+}

@@ -1,0 +1,11 @@
+.conteudo__box {
+
+    align-items: flex-start;
+    display: flex;
+    flex-direction: row;
+    gap: 112px;
+    padding: 0px;
+    height: 240px;
+    width: 1136px;
+    
+}

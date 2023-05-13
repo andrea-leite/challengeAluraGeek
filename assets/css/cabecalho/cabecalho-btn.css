@@ -1,0 +1,26 @@
+.cabecalho__btn {
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    
+    border: 1px solid #2A7AE4;
+    box-sizing: border-box;
+    gap: 10px;
+    height: 51px;
+    padding: 16px;
+    width: 182px;
+
+}
+
+.cabecalho__botao {
+    
+    background: #FFFFFF;
+    border: none;
+    color: #2A7AE4;
+    font-weight: 400;
+    font-size: 16px;   
+    line-height: 19px;    
+
+}

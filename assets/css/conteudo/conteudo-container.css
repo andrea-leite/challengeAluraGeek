@@ -1,0 +1,12 @@
+.conteudo__container {
+    
+    align-items: center;
+    background: #EAF2FD;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 115px;    
+    height: 368px;   
+    width: 1440px;
+
+}
